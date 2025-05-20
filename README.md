@@ -66,4 +66,4 @@ npm start
 - Prisma
 - PostgreSQL
 - JWT
-- Nodemailer 
+- Nodemailer
